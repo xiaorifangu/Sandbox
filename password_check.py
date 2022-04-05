@@ -1,4 +1,7 @@
-
+"""
+Description: A simple password checker
+Name:Li Junlu
+"""
 def is_valid_password(text):
     return 8 <= len(text) <= 20
 
